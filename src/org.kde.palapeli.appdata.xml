@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop">
+  <id>org.kde.palapeli.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0+ and GFDL-1.3</project_license>
+  <name>Palapeli</name>
+  <name xml:lang="ca">Palapeli</name>
+  <name xml:lang="ca-valencia">Palapeli</name>
+  <name xml:lang="cs">Palapeli</name>
+  <name xml:lang="da">Palapeli</name>
+  <name xml:lang="de">Palapeli</name>
+  <name xml:lang="en-GB">Palapeli</name>
+  <name xml:lang="es">Palapeli</name>
+  <name xml:lang="et">Palapeli</name>
+  <name xml:lang="eu">Palapeli</name>
+  <name xml:lang="fi">Palapeli</name>
+  <name xml:lang="fr">Palapeli</name>
+  <name xml:lang="gl">Palapeli</name>
+  <name xml:lang="id">Palapeli</name>
+  <name xml:lang="it">Palapeli</name>
+  <name xml:lang="ko">Palapeli</name>
+  <name xml:lang="nl">Palapeli</name>
+  <name xml:lang="nn">Palapeli</name>
+  <name xml:lang="pl">Palapeli</name>
+  <name xml:lang="pt">Palapeli</name>
+  <name xml:lang="pt-BR">Palapeli</name>
+  <name xml:lang="ru">Palapeli</name>
+  <name xml:lang="sk">Palapeli</name>
+  <name xml:lang="sl">Palapeli</name>
+  <name xml:lang="sr">Палапели</name>
+  <name xml:lang="sr-Latn">Palapeli</name>
+  <name xml:lang="sr-ijekavian">Палапели</name>
+  <name xml:lang="sr-ijekavianlatin">Palapeli</name>
+  <name xml:lang="sv">Palapeli</name>
+  <name xml:lang="uk">Palapeli</name>
+  <name xml:lang="x-test">xxPalapelixx</name>
+  <name xml:lang="zh-CN">Palapeli</name>
+  <summary>Jigsaw puzzle game</summary>
+  <summary xml:lang="ca">Joc de trencaclosques</summary>
+  <summary xml:lang="ca-valencia">Joc de trencaclosques</summary>
+  <summary xml:lang="cs">Hra se skládáním puzzle</summary>
+  <summary xml:lang="de">Bilderpuzzle</summary>
+  <summary xml:lang="en-GB">Jigsaw puzzle game</summary>
+  <summary xml:lang="es">Juego de rompecabezas</summary>
+  <summary xml:lang="et">Puslemäng</summary>
+  <summary xml:lang="eu">Puzzle jokoa</summary>
+  <summary xml:lang="fi">Palapeli</summary>
+  <summary xml:lang="fr">Jeu de puzzle</summary>
+  <summary xml:lang="gl">Xogo de quebracabezas jigsaw</summary>
+  <summary xml:lang="id">Permainan teka-teki jigsaw</summary>
+  <summary xml:lang="it">Gioco di puzzle</summary>
+  <summary xml:lang="ko">조각 퍼즐 게임</summary>
+  <summary xml:lang="nl">Legpuzzelspel</summary>
+  <summary xml:lang="nn">Puslespelspel</summary>
+  <summary xml:lang="pl">Układanie puzzli</summary>
+  <summary xml:lang="pt">Jogo de 'puzzles'</summary>
+  <summary xml:lang="pt-BR">Jogo de quebra-cabeça</summary>
+  <summary xml:lang="sk">Puzzle hra</summary>
+  <summary xml:lang="sl">Igra sestavljank</summary>
+  <summary xml:lang="sr">Игра слагања делова</summary>
+  <summary xml:lang="sr-Latn">Igra slaganja delova</summary>
+  <summary xml:lang="sr-ijekavian">Игра слагања делова</summary>
+  <summary xml:lang="sr-ijekavianlatin">Igra slaganja delova</summary>
+  <summary xml:lang="sv">Pusselspel</summary>
+  <summary xml:lang="uk">Гра у складанку</summary>
+  <summary xml:lang="x-test">xxJigsaw puzzle gamexx</summary>
+  <summary xml:lang="zh-CN">拼图游戏</summary>
+  <description>
+    <p>
+   Palapeli is a single-player jigsaw puzzle game.
+   Unlike other games in that genre, you are not limited to aligning pieces on imaginary grids.
+   The pieces are freely moveable.
+   Also, Palapeli features real persistency, i.e. everything you do is saved on your disk immediately.
+  </p>
+    <p xml:lang="ca">El Palapeli és un joc de trencaclosques per a un jugador. A diferència d'altres jocs d'aquest tipus, no esteu limitat a alinear peces en quadrícules imaginàries. Les peces es poden moure lliurement. També, el Palapeli es caracteritza per la seva persistència real, és a dir, qualsevol cosa que feu es desa immediatament en el disc.</p>
+    <p xml:lang="ca-valencia">El Palapeli és un joc de trencaclosques per a un jugador. A diferència d'altres jocs d'aquest tipus, no esteu limitat a alinear peces en quadrícules imaginàries. Les peces es poden moure lliurement. També, el Palapeli es caracteritza per la seua persistència real, és a dir, qualsevol cosa que feu es guarda immediatament en el disc.</p>
+    <p xml:lang="de">Palapeli ist ein Bilderpuzzle-Spiel für einen Spieler. Im Gegensatz zu anderen Spielen in dieser Kategorie werden Sie nicht auf das Ausrichten von Teilen an imaginären Gittern eingeschränkt. Die Puzzleteile können beliebig verschoben werden. Außerdem bleiben alle Spielzüge erhalten, da jeder Zug sofort auf der Festplatte gespeichert wird.</p>
+    <p xml:lang="en-GB">Palapeli is a single-player jigsaw puzzle game. Unlike other games in that genre, you are not limited to aligning pieces on imaginary grids. The pieces are freely moveable. Also, Palapeli features real persistence, i.e. everything you do is saved on your disk immediately.</p>
+    <p xml:lang="es">Palapeli es un juego de rompecabezas para un único jugador. Al contrario de otros juegos del mismo género, no está limitado a alinear piezas en cuadrículas imaginarias. Las piezas se pueden mover libremente. Además, Palapeli usa persistencia real; es decir, todo lo que hace se guarda en el disco de forma inmediata.</p>
+    <p xml:lang="et">Palapeli on ühe mängijaga puslemäng. Erinevalt teistest sama žanri mängudest ei ole siin piiranguid tükkide asetamisele kujutletavale alusvõrgustikule. Kõiki tükke saab vabalt liigutada. Samuti iseloommustab Palapelit see, et kogu sinu tegevus salvestatakse reaalajas kettale, nii et midagi ei lähe kaotsi.</p>
+    <p xml:lang="eu">Palapeli jokalari bakarreko puzzle jokoa da. Genero honetako beste joko batzuetan ez bezala, ez zaude piezak irudimenezko sareta batean lerrokatzera mugatua. Piezak mugitzeko askatasuna dago. Palapeliren beste eginbideetako bat iraunkortasuna da, egiten duzun guztia egin ahala diskoan gordetzen da.</p>
+    <p xml:lang="fi">Palapeli on yhden pelaajan peli. Muista samanlaisista peleistä poiketen sinun ei tarvitse sijoittaa palasia kuvitteelliseen ruudukkoon vaan palaset ovat vapaasti liikuteltavissa. Palapeli myös muistaa aina tilanteen eli tallentaa kaiken mitä teet heti levylle.</p>
+    <p xml:lang="fr">Palapeli est un jeu de puzzle à un joueur. A la différence des autres jeux de ce genre, vous n'êtes pas limité à aligner les pièces sur des grilles imaginaires. Vous pouvez déplacer les pièces à votre bon vouloir. Palapeli propose également une vraie persistance, tout ce que vous faites est immédiatement enregistré sur votre disque.</p>
+    <p xml:lang="gl">Palapeli é un xogo de quebracabezas jigsaw para un xogador. A diferenza doutros xogos do mesmo xénero, non estás limitado a aliñar pezas en grades imaxinarias. As pezas poden moverse libremente. Ademais, Palapeli fornece persistencia real, é dicir, todo o que fas gárdase no disco inmediatamente.</p>
+    <p xml:lang="id">Palapeli adalah permainan teka-teki jigsaw pemain tunggal. tidak seperti permainan lain yang segenre, kamu enggak dibatasi untuk mensejajarkan potongan-potongan pada kisi secara khayal. Potongan-potongan secara bebas dapat dipindah-pindah. Juga, fitur Palapeli sungguh gigih, misal apa yang kamu lakukan akan disimpan ke disk-mu secara langsung.</p>
+    <p xml:lang="it">Palapeli è un gioco di puzzle a giocatore singolo. A differenza di altri giochi di questo genere, non sei limitato ad allineare pezzi su griglie immaginarie. I pezzi possono essere spostati liberamente. Palapeli, inoltre, ha la caratteristica della persistenza, ossia tutto quello che fai viene salvato immediatamente sul disco.</p>
+    <p xml:lang="ko">Palapeli는 1인용 조각 퍼즐 게임입니다. 단순히 조각을 그리드를 따라 맞추는 것이 아니라 자유롭게 이동할 수 있습니다. Palapeli는 즉시 자동 저장을 지원합니다.</p>
+    <p xml:lang="nl">Palapeli is een legpuzzelspel voor één persoon. Anders dan in andere spellen in dit genre bent u niet gelimiteerd om stukjes op imaginaire rasters te plaatsen. De stukjes zijn vrij te verplaatsen. Palapeli heeft de echte blijvende functie, d.w.z. alles wat u doet wordt onmiddellijk opgeslagen op uw schijf.</p>
+    <p xml:lang="nn">Palapeli er eit puslespelspel for éin spelar. I motsetning til liknande spel, treng du her ikkje plassera brikkene på eit fast rutenett; du kan flytta dei fritt rundt. Alt du gjer vert òg automatisk lagra, slik at du kan halda fram med puslespelet seinare.</p>
+    <p xml:lang="pl">Palapeli jest programem do układania puzzli dla pojedynczego gracza. W odróżnieniu od innych układanego z tego rodzaju nie jesteś ograniczony przy układaniu kawałków na wyobrażalnych siatkach. Kawałki można dowolnie przesuwać. Palapeli zapewnia także trwałość, tj. po każdym twoim ruchu,  wszystko jest zapisywane na dysk natychmiastowo.</p>
+    <p xml:lang="pt">O Palapeli é um jogo de 'puzzles' para um único jogador. Ao contrário de outros jogos do género, não está limitado a alinhar as peças em grelhas imaginárias. As peças podem ser movidas à vontade. Da mesma forma, o Palapeli oferece uma persistência real; i.e., tudo o que fizer é gravado no seu disco imediatamente.</p>
+    <p xml:lang="pt-BR">O Palapeli é um jogo de quebra-cabeça para um único jogador. Diferente de outros jogos do gênero, você não está limitado a alinhar as peças em grades imaginárias. As peças são movidas livremente. Além disto, o Palapeli possui persistência real, por exemplo, tudo o que você faz é salvo no disco imediatamente.</p>
+    <p xml:lang="sk">Palapeli je puzzle hra pre jedného hráča. Na rozdiel od ostatných podobných hier nie ste obmedzení zarovnaním častí do imaginárnej mriežky. Časti je možné voľne presúvať. Palapeli obsahuje aj perzistenciu, teda všetko, čo urobíte, sa okamžite uloží na disk.</p>
+    <p xml:lang="sl">Palapeli je enoigralska igra sestavljank. V nasprotju z drugimi igrami te vrste, niste omejeni na navidezno mrežo, v katero postavljate kose, ampak lahko slednje prosto premikate. Dodatna zmožnost programa Palapeli je tudi prava obstojnost rešitev, saj se vsak premik takoj shrani na disk.</p>
+    <p xml:lang="sr">Палапели је игра слагања делова за једног играча. За разлику од других игара овог типа, нисте ограничени на уклапање делова у замишљене мреже, већ се делови могу слободно померати. Такође, Палапели изводи праву трајност, тј. све што учините одмах се уписује на диск.</p>
+    <p xml:lang="sr-Latn">Palapeli je igra slaganja delova za jednog igrača. Za razliku od drugih igara ovog tipa, niste ograničeni na uklapanje delova u zamišljene mreže, već se delovi mogu slobodno pomerati. Takođe, Palapeli izvodi pravu trajnost, tj. sve što učinite odmah se upisuje na disk.</p>
+    <p xml:lang="sr-ijekavian">Палапели је игра слагања делова за једног играча. За разлику од других игара овог типа, нисте ограничени на уклапање делова у замишљене мреже, већ се делови могу слободно померати. Такође, Палапели изводи праву трајност, тј. све што учините одмах се уписује на диск.</p>
+    <p xml:lang="sr-ijekavianlatin">Palapeli je igra slaganja delova za jednog igrača. Za razliku od drugih igara ovog tipa, niste ograničeni na uklapanje delova u zamišljene mreže, već se delovi mogu slobodno pomerati. Takođe, Palapeli izvodi pravu trajnost, tj. sve što učinite odmah se upisuje na disk.</p>
+    <p xml:lang="sv">Palapeli är ett pusselspel för en ensam spelare. I motsats till andra spel i genren är du inte begränsat till att linjera upp bitar på tänkta rutmönster. Bitarna kan flyttas fritt. Dessutom har Palapeli verklig beständighet, dvs. allt du gör sparas omedelbart på disk.</p>
+    <p xml:lang="uk">Palapeli — гра-складанка для одного гравця. На відміну від інших ігор у цьому жанрі, ви не просто розміщуєте шматочки зображення на заздалегідь визначеній ґратці. Шматочки у цій грі можна пересувати довільним чином. Крім того, у Palapeli передбачено негайне зберігання усіх ваших дій на диск, тому ви можете відновити збирання з того самого моменту, коли ви його перервали.</p>
+    <p xml:lang="x-test">xxPalapeli is a single-player jigsaw puzzle game. Unlike other games in that genre, you are not limited to aligning pieces on imaginary grids. The pieces are freely moveable. Also, Palapeli features real persistency, i.e. everything you do is saved on your disk immediately.xx</p>
+    <p>Features:</p>
+    <p xml:lang="ca">Característiques:</p>
+    <p xml:lang="ca-valencia">Característiques:</p>
+    <p xml:lang="cs">Vlastnosti:</p>
+    <p xml:lang="de">Funktionen:</p>
+    <p xml:lang="en-GB">Features:</p>
+    <p xml:lang="es">Funciones:</p>
+    <p xml:lang="et">Omadused:</p>
+    <p xml:lang="eu">Eginbideak:</p>
+    <p xml:lang="fi">Ominaisuuksia:</p>
+    <p xml:lang="fr">Fonctionnalités :</p>
+    <p xml:lang="gl">Funcionalidades:</p>
+    <p xml:lang="id">Fitur:</p>
+    <p xml:lang="it">Caratteristiche:</p>
+    <p xml:lang="ko">기능:</p>
+    <p xml:lang="nl">Mogelijkheden:</p>
+    <p xml:lang="nn">Funksjonar:</p>
+    <p xml:lang="pl">Możliwości:</p>
+    <p xml:lang="pt">Funcionalidades:</p>
+    <p xml:lang="pt-BR">Recursos:</p>
+    <p xml:lang="ru">Возможности:</p>
+    <p xml:lang="sk">Funkcie:</p>
+    <p xml:lang="sl">Zmožnosti:</p>
+    <p xml:lang="sr">Могућности:</p>
+    <p xml:lang="sr-Latn">Mogućnosti:</p>
+    <p xml:lang="sr-ijekavian">Могућности:</p>
+    <p xml:lang="sr-ijekavianlatin">Mogućnosti:</p>
+    <p xml:lang="sv">Funktioner:</p>
+    <p xml:lang="uk">Можливості:</p>
+    <p xml:lang="x-test">xxFeatures:xx</p>
+    <p xml:lang="zh-CN">功能：</p>
+    <p xml:lang="zh-TW">功能：</p>
+    <ul>
+      <li>Create and play puzzles ranging from 4 to 10,000 pieces</li>
+      <li xml:lang="ca">Crea i juga a trencaclosques de 4 a 10.000 peces</li>
+      <li xml:lang="ca-valencia">Crea i juga a trencaclosques de 4 a 10.000 peces</li>
+      <li xml:lang="de">Erstellen und Spielen von Puzzles von 4 bis 10.00 Teilen</li>
+      <li xml:lang="en-GB">Create and play puzzles ranging from 4 to 10,000 pieces</li>
+      <li xml:lang="es">Crear y jugar rompecabezas desde 4 hasta 10.000 piezas</li>
+      <li xml:lang="et">Puslede loomine ja läbimängimine, milles on 4 kuni 10 000 tükki</li>
+      <li xml:lang="eu">Sortu eta jokatu 4tik 10.000 pieza arteko puzzleekin</li>
+      <li xml:lang="fi">Luo ja pelaa 4–10 000 palan palapelejä</li>
+      <li xml:lang="fr">Créez et jouez à des puzzles comptant de 4 à 10 000 pièces</li>
+      <li xml:lang="gl">Crea e xoga quebracabezas de entre 4 e 10.000 pezas.</li>
+      <li xml:lang="id">Menciptakan dan memainkan teka-teki mulai dari 4 hingga 10,000 potong</li>
+      <li xml:lang="it">Crea e gioca con puzzle da 4 a 10.000 pezzi</li>
+      <li xml:lang="ko">4조각부터 10,000조각까지 자유로운 퍼즐 생성 및 플레이</li>
+      <li xml:lang="nl">Puzzels maken en spelen variërend van 4 tot 10.000 stukjes</li>
+      <li xml:lang="nn">Lag og spel puslespel med alt frå 4 til 10 000 brikker</li>
+      <li xml:lang="pl">Twórz i układaj puzzle od 4 do 10 000 kawałków</li>
+      <li xml:lang="pt">Criar e jogar 'puzzles' que vão de 4 até 10 000 peças.</li>
+      <li xml:lang="pt-BR">Crie e jogue quebra-cabeças indo de 4 a 10.000 peças</li>
+      <li xml:lang="sk">Vytvoriť a hrať puzzle siahajúce od 4 do 10 000 častí</li>
+      <li xml:lang="sl">Ustvarite in rešite sestavljanke od velikosti 4 pa vse do velikosti 10000 kosov</li>
+      <li xml:lang="sr">стварање и играње слагалица од 4 до 10.000 делова</li>
+      <li xml:lang="sr-Latn">stvaranje i igranje slagalica od 4 do 10.000 delova</li>
+      <li xml:lang="sr-ijekavian">стварање и играње слагалица од 4 до 10.000 делова</li>
+      <li xml:lang="sr-ijekavianlatin">stvaranje i igranje slagalica od 4 do 10.000 delova</li>
+      <li xml:lang="sv">Skapa och lös pussel från 4 till 10 000 bitar</li>
+      <li xml:lang="uk">Створення і збирання головоломок, що складаються із багатьох елементів (від 4 до 10000)</li>
+      <li xml:lang="x-test">xxCreate and play puzzles ranging from 4 to 10,000 piecesxx</li>
+      <li>Piece-holders for helping solve large puzzles</li>
+      <li xml:lang="ca">Contenidors de peces per a ajudar a resoldre trencaclosques grans</li>
+      <li xml:lang="ca-valencia">Contenidors de peces per a ajudar a resoldre trencaclosques grans</li>
+      <li xml:lang="de">Teileablagen als Hilfe für große Puzzles</li>
+      <li xml:lang="en-GB">Piece-holders for helping solve large puzzles</li>
+      <li xml:lang="es">Portapiezas para ayudarle a resolver rompecabezas grandes</li>
+      <li xml:lang="et">Tükihoidikud suuremate puslede lahendamise hõlbustamiseks</li>
+      <li xml:lang="eu">Pieza-euskarriak puzzle handiak ebazten laguntzeko</li>
+      <li xml:lang="fi">Palaryhmät suurten palapelien ratkaisemisen helpottamiseksi</li>
+      <li xml:lang="fr">Casier à pièces pour vous aider à résoudre les grands puzzles</li>
+      <li xml:lang="gl">Caixóns de pezas para axudar a resolver quebracabezas grandes.</li>
+      <li xml:lang="id">Piece-holders untuk membantu memecahkan teka-teki yang besar</li>
+      <li xml:lang="it">Contenitori di pezzi per aiutare a risolvere puzzle grandi</li>
+      <li xml:lang="ko">큰 퍼즐을 풀 때 도움이 되는 조각 모음통</li>
+      <li xml:lang="nl">Houders voor puzzelstukjes om te helpen grote puzzels op te lossen</li>
+      <li xml:lang="nn">Brikkehaldarar for å løysa store puslespel</li>
+      <li xml:lang="pl">Pojemniki na puzzle pomagające w układaniu dużych puzzli</li>
+      <li xml:lang="pt">Armazéns de blocos de peças para ajudar a resolver 'puzzles' grandes</li>
+      <li xml:lang="pt-BR">Recipiente de peças para ajudar a resolver quebra-cabeças grandes</li>
+      <li xml:lang="sk">Držiaky častí na pomoc pri riešení veľkých puzzle</li>
+      <li xml:lang="sl">Vsebniki za kose, ki pomagajo pri večjih sestavljankah</li>
+      <li xml:lang="sr">држачи делова као помоћ у решавању великих слагалица</li>
+      <li xml:lang="sr-Latn">držači delova kao pomoć u rešavanju velikih slagalica</li>
+      <li xml:lang="sr-ijekavian">држачи делова као помоћ у решавању великих слагалица</li>
+      <li xml:lang="sr-ijekavianlatin">držači delova kao pomoć u rešavanju velikih slagalica</li>
+      <li xml:lang="sv">Bitbehållare för att hjälpa till att lösa stora pussel</li>
+      <li xml:lang="uk">Панелі для шматочків, які допомагають збирати великі складанки</li>
+      <li xml:lang="x-test">xxPiece-holders for helping solve large puzzlesxx</li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://www.kde.org/images/screenshots/palapeli.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.kde.org/applications/games/palapeli/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=palapeli</url>
+  <url type="donation">https://www.kde.org/community/donations/?app=palapeli&amp;source=appdata</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>palapeli</binary>
+  </provides>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="2.1.21080" date="2021-08-12"/>
+    <release version="2.1.21043" date="2021-07-08"/>
+    <release version="2.1.21042" date="2021-06-10"/>
+    <release version="2.1.21041" date="2021-05-13"/>
+  </releases>
+</component>

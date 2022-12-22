@@ -1,0 +1,15 @@
+etc/xdg/palapeli-collectionrc
+usr/games/palapeli
+usr/lib/*/libpala.so.*
+usr/lib/*/qt5/plugins/palapelislicers/palapeli_goldbergslicer.so
+usr/lib/*/qt5/plugins/palapelislicers/palapeli_jigsawslicer.so
+usr/lib/*/qt5/plugins/palapelislicers/palapeli_rectslicer.so
+usr/lib/*/qt5/plugins/palathumbcreator.so
+usr/lib/*/cmake/Pala/PalaConfig.cmake
+usr/lib/*/cmake/Pala/PalaConfigVersion.cmake
+usr/lib/*/cmake/Pala/PalaTargets-debian.cmake
+usr/lib/*/cmake/Pala/PalaTargets.cmake
+usr/share/applications/org.kde.palapeli.desktop
+usr/share/kservices5/ServiceMenus/palapeli_servicemenu.desktop
+usr/share/kservices5/palathumbcreator.desktop
+usr/share/metainfo/org.kde.palapeli.appdata.xml

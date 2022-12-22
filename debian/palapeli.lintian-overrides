@@ -1,0 +1,4 @@
+# Private library, not worth an extra package
+palapeli: package-name-doesnt-match-sonames libpala0
+# Private library, no symbols needed
+palapeli: no-symbols-control-file

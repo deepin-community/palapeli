@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+	<kcfgfile name="palapelirc"/>
+	<group name="Puzzling">
+		<entry name="SnappingPrecision" type="Int">
+			<label>Precision of snapping (as a percentage of piece size).</label>
+			<default>20</default>
+		</entry>
+	</group>
+	<group name="Appearance">
+		<entry name="ViewBackground" type="String">
+			<label>The filename of the background image to use for the View, or "__color__" if a solid color should be used (see key "ViewBackgroundColor").</label>
+			<default>background.svg</default>
+		</entry>
+		<entry name="ViewBackgroundColor" type="Color">
+			<label>The background color to use for the View (if the key "ViewBackground" is set to "__color__").</label>
+			<default>#fff7eb</default>
+		</entry>
+		<entry name="ViewHighlightColor" type="Color">
+			<label>The highlighting color to use for selecting pieces in the View.</label>
+			<default>#6effff</default>
+		</entry>
+		<entry name="SolutionArea" type="Int">
+			<label>Where to reserve space on the puzzle table for the solution, when shuffling or re-shuffling the pieces.</label>
+			<default>0</default>
+		</entry>
+		<entry name="PieceSpacing" type="Int">
+			<label>Spacing of pieces in puzzle grids relative to the size of the largest piece (spacing factor is 1.0 + 0.05 * value).</label>
+			<default>6</default>
+		</entry>
+		<entry name="ShowStatusBar" type="Bool">
+			<label>Whether to show the status bar on the puzzle table. (It is not a real status bar, but the position and provided functionality is similar.)</label>
+			<default>true</default>
+		</entry>
+		<entry name="PieceShadowsEnabled" type="Bool">
+			<label>Whether to render shadows below the puzzle pieces. Turning this off might improve rendering performance.</label>
+			<default>false</default>
+		</entry>
+		<entry name="PieceBevelsEnabled" type="Bool">
+			<label>Whether to render bevels on the puzzle pieces. Turning this off might improve puzzle loading performance.</label>
+			<default>false</default>
+		</entry>
+	</group>
+	<group name="PuzzlePreview">
+		<entry name="PuzzlePreviewVisible" type="Bool">
+			<label>Whether the preview window was switched on last time Palapeli was run.</label>
+			<default>true</default>
+		</entry>
+		<entry name="PuzzlePreviewGeometry" type="Rect">
+			<label>Last position and size of puzzle preview.</label>
+			<default>QRect(-1, -1, 320, 240)</default>
+		</entry>
+	</group>
+</kcfg>
